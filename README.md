@@ -63,4 +63,6 @@ OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/fcae2c4f-acb6-4460-a4c0-5beeb2aad14b)
 
+After choosing images click Stylised Image.
+
 ![Image](https://github.com/user-attachments/assets/78dae0de-bdb0-4ce5-96de-eed0d9749ab2)
